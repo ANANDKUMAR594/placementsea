@@ -1,0 +1,36 @@
+.hd{
+    font-size: 40px;
+    font-family: fantasy;
+   }
+.bg1{
+    background: blueviolet;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    position: fixed;
+}   
+.bt{
+    float: right;
+    background: transparent;
+    font-family: fantasy;
+    color: black;
+    font-size: 100%;
+}
+.bg3{
+    background: blueviolet;
+}
+  .footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background: blueviolet;
+    text-align: center;
+    font-family: fantasy;
+  }  
+  .img{
+      border-image-repeat: repeat;
+  }
